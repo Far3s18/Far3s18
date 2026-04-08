@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class FadiFares:
@@ -32,9 +32,9 @@ class FadiFares:
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🤖 AI / ML / GenAI
+### AI / ML / GenAI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -42,52 +42,52 @@ class FadiFares:
 ![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge&logo=graph&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ Databases & Vector Stores
+### Databases & Vector Stores
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🛠️ Backend & DevOps
+### Backend & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📱 Frontend & Mobile
+### Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-## 🏗️ What I Build
+## What I Build
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🤖 AI Agents</h3>
+      <h3>AI Agents</h3>
       <p>Autonomous multi-agent systems using LangGraph & LangChain — RAG pipelines, tool-use, memory, and orchestration.</p>
     </td>
     <td align="center" width="33%">
-      <h3>🧬 LLM Systems</h3>
+      <h3>LLM Systems</h3>
       <p>Fine-tuning, prompt engineering, and deploying large language models into scalable production APIs.</p>
     </td>
     <td align="center" width="33%">
-      <h3>📡 Full-Stack AI Apps</h3>
+      <h3>Full-Stack AI Apps</h3>
       <p>End-to-end applications — FastAPI backends, Flutter mobile frontends, Firebase real-time sync, and vector search with Qdrant.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h3>🔍 Vector Search & RAG</h3>
+      <h3>Vector Search & RAG</h3>
       <p>Production RAG pipelines with semantic search, hybrid retrieval, re-ranking, and Qdrant vector stores.</p>
     </td>
     <td align="center" width="33%">
-      <h3>📊 Deep Learning</h3>
+      <h3>Deep Learning</h3>
       <p>CNNs, Transformers, and custom architectures in PyTorch and TensorFlow for vision, NLP, and tabular tasks.</p>
     </td>
     <td align="center" width="33%">
-      <h3>🚀 MLOps & Deployment</h3>
+      <h3>MLOps & Deployment</h3>
       <p>Containerized ML services with Docker, CI/CD via GitHub Actions, and scalable inference endpoints.</p>
     </td>
   </tr>
@@ -95,7 +95,7 @@ class FadiFares:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -106,13 +106,13 @@ class FadiFares:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Far3s18&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Far3s18&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
