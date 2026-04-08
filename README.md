@@ -1,6 +1,11 @@
+
 <div align="center">
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Fadi%20Fares&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20and%20AI%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
+ 
+<br/>
+ 
+<img src="header_image.gif" alt="Fadi Fares" width="280"/>
  
 <br/>
  
