@@ -1,15 +1,9 @@
 
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Fadi%20Fares&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20and%20AI%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
- 
-<br/>
- 
-<img src="header_image.gif" alt="Fadi Fares" width="280"/>
+
+<img src="header_image.gif" alt="Fadi Fares" width="100%"/>
  
 <br/>
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Deep+Learning+%7C+GenAI+%7C+LLM+Engineer;Turning+Data+into+Intelligence+%E2%9C%A8;AI+Agent+Architect+%F0%9F%A4%96)](https://git.io/typing-svg)
  
 </div>
 
