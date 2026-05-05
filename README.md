@@ -13,8 +13,8 @@
 
 ```python
 class FadiFares:
-    name       = "Fadi Fares"
-    role       = "Software & AI Engineer"
+    name = "Fadi Fares"
+    role = "Software & AI Engineer"
     
     expertise  = [
         "Machine Learning & Deep Learning",
