@@ -99,14 +99,14 @@ class FadiFares:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Far3s18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Far3s18&count_private=true&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Far3s18&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Far3s18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Far3s18&theme=tokyonight&hide_border=true&background=0D1117)
+
+
 
 </div>
 
